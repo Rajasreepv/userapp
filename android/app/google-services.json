@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "285584440399",
+    "firebase_url": "https://she-ride-54f14-default-rtdb.firebaseio.com",
+    "project_id": "she-ride-54f14",
+    "storage_bucket": "she-ride-54f14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285584440399:android:7dfa8f0d53fb5fcc2abe3a",
+        "android_client_info": {
+          "package_name": "com.example.user_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUecKvnZH2fXaMGHZ4gNcjKAQhcogF1pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285584440399:android:40bf2444b0388b442abe3a",
+        "android_client_info": {
+          "package_name": "com.rjz.rideapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUecKvnZH2fXaMGHZ4gNcjKAQhcogF1pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
